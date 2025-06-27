@@ -6,14 +6,14 @@
 /*   By: ptavares <ptavares@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/06/02 13:41:25 by ptavares          #+#    #+#             */
-/*   Updated: 2025/06/26 22:37:25 by ptavares         ###   ########.fr       */
+/*   Updated: 2025/06/27 13:29:13 by ptavares         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_H
 # define GET_NEXT_LINE_H
 
-# include "stdlib.h"
+# include <stdlib.h>
 # include <unistd.h>
 # include <stdio.h>
 
